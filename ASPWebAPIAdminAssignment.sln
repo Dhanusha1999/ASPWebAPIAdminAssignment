@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPWebAPIAdminAssignment", "ASPWebAPIAdminAssignment\ASPWebAPIAdminAssignment.csproj", "{AA17A8B9-3DD6-4D05-BA07-BD1983079720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductSalesWebAPIAssignment", "ProductSalesWebAPIAssignment\ProductSalesWebAPIAssignment.csproj", "{FA3513F3-BCAA-4CFB-A325-8D88C13406DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA17A8B9-3DD6-4D05-BA07-BD1983079720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA17A8B9-3DD6-4D05-BA07-BD1983079720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA17A8B9-3DD6-4D05-BA07-BD1983079720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA17A8B9-3DD6-4D05-BA07-BD1983079720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA3513F3-BCAA-4CFB-A325-8D88C13406DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3513F3-BCAA-4CFB-A325-8D88C13406DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3513F3-BCAA-4CFB-A325-8D88C13406DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3513F3-BCAA-4CFB-A325-8D88C13406DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF3627CD-034F-4391-8B2C-B512BAA3EC88}
+	EndGlobalSection
+EndGlobal
